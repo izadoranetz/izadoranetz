@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Izadora
 - 💖 Arts, technology and crafts
 - 💬 I work with design and content creation for internal communications at Banco do Brasil
-- 📖 I’m currently learning about python and also studying to be a front-end web developer
+- 📖 I’m currently studying to be a front-end web developer
 - 📫 Reach me at andorinea.com
 
 <!---
