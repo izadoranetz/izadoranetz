@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izadora
 - 💖 Arts, technology and crafts
-- 💬 I currently work with UI/UX and I'm also a beginner front-end dev
+- 💬 I currently work with UI/UX and I'm also a jr dev
 - 📫 Reach me at andorinea.com
 
 <!---
