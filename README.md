@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izadora
 - 💖 Arts, technology and crafts
-- 💬 UX engineer
+- 💬 Designer, illustrator and web dev
 - 📫 Reach me at andorinea.com
 
 <!---
